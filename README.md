@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 2 - Rails Group Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - Rails Group Project
 
 **Read this entire document before writing a line of code.**
 
@@ -75,7 +75,7 @@ For the second project, you will use your knowledge of front-end and back-end we
 * **Data Models** Include at least two data models with associations.
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
 * **Error Handling:** Forms in your application should also validate data, handle incorrect inputs, and provide user feedback on the client side.
-* **Testing** Write specs for 25% of your controller functionality, as well as for any model methods.
+* **Testing** Write unit tests for every model method.
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Create an about page that includes photos and brief bios of your team members.
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
@@ -119,9 +119,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### When is it due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES DATE HERE & TIME}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Monday, June 27 ** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AN DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Friday, July 1st** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -134,52 +134,52 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ---
 
-## Project Groups
+<!--## Project Groups-->
 
-###### Who are my group members and assigned instructor?
+<!--###### Who are my group members and assigned instructor?-->
 
-#### Group 1 - TBD (INSTRUCTOR)
+<!--#### Group 1 - TBD (INSTRUCTOR)-->
 
-* TBD
-* TBD
-* TBD
-* TBD
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
 
-#### Group 2 - TBD (INSTRUCTOR)
+<!--#### Group 2 - TBD (INSTRUCTOR)-->
 
-* TBD
-* TBD
-* TBD
-* TBD
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
 
-#### Group 3 - TBD (INSTRUCTOR)
+<!--#### Group 3 - TBD (INSTRUCTOR)-->
 
-* TBD
-* TBD
-* TBD
-* TBD
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
 
-#### Group 4 - TBD (INSTRUCTOR)
+<!--#### Group 4 - TBD (INSTRUCTOR)-->
 
-* TBD
-* TBD
-* TBD
-* TBD
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
 
-#### Group 5 - TBD (INSTRUCTOR)
+<!--#### Group 5 - TBD (INSTRUCTOR)-->
 
-* TBD
-* TBD
-* TBD
-* TBD
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
+<!--* TBD-->
 
----
+<!------->
 
 ## Presentation Guidelines
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **{{ENTER PRESENTATION DATE HERE}}** starting at ** {{PRESENTATION TIME}}**. Please follow these guidelines:
+Each group will present their project on **Friday, July 1st** starting at **10:30 AM**. Please follow these guidelines:
 
 * Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
