@@ -1,8 +1,8 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 2 Idea Pitches
 
-For Project 2, you will be working in groups of 3-4 to build a full-stack Rails application.
+For Project 3, you will be working in groups of 4 to build a full-stack Rails application.
 
-The instructional team will choose four project ideas from the class to determine the four groups. Everyone is encouraged to pitch an idea for Project 2. After hearing the pitches, you'll rank the ideas in order of preference. We'll use these preferences to pick the four project ideas and put together the groups.
+The instructional team will choose four project ideas from the class to determine the four groups. Everyone is encouraged to pitch an idea for Project 3. After hearing the pitches, you'll rank the ideas in order of preference. We'll use these preferences to pick the four project ideas and put together the groups.
 
 **If you have an idea you'd like to pitch to the class, please follow these guidelines:**
 
