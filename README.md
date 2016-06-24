@@ -134,46 +134,39 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ---
 
-<!--## Project Groups-->
+## Project Groups
 
-<!--###### Who are my group members and assigned instructor?-->
+###### Who are my group members and assigned instructor?
 
-<!--#### Group 1 - TBD (INSTRUCTOR)-->
+#### Group 1 - Street Art (Ben)
 
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+* Anthony
+* Vanessa
+* Camila
+* Min
 
-<!--#### Group 2 - TBD (INSTRUCTOR)-->
+#### Group 2 - Restaurant Connections (Brianna)
 
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+* Matt L
+* Jen
+* Mike
+* Matt S
 
-<!--#### Group 3 - TBD (INSTRUCTOR)-->
+#### Group 3 - Language and Cultural Exchange (Annabelle)
 
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+* Emilio
+* Kabah
+* Kate
+* Val
 
-<!--#### Group 4 - TBD (INSTRUCTOR)-->
+#### Group 4 - Physical Therapy Tracker (Alex)
 
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
+* Ben
+* Wayne
+* Sam
+* Michael
 
-<!--#### Group 5 - TBD (INSTRUCTOR)-->
-
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-<!--* TBD-->
-
-<!------->
+---
 
 ## Presentation Guidelines
 
