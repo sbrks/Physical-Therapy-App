@@ -18,8 +18,9 @@ Technologies Used:
 * AJAX
 
 #Planning: 
-*[Trello] (https://trello.com/b/2hUBMDlJ)
-*[Schedule/Milestone] (https://docs.google.com/spreadsheets/d/1v_VcVBdGkPDtkP9yZEItrfRznMJE9yYMZdebbxAq5Pc/edit#gid=0)
+* [Trello] (https://trello.com/b/2hUBMDlJ)
+
+* [Schedule/Milestone] (https://docs.google.com/spreadsheets/d/1v_VcVBdGkPDtkP9yZEItrfRznMJE9yYMZdebbxAq5Pc/edit#gid=0)
 
 ![ERD/Model](./planning/image.jpeg)
 
