@@ -1,7 +1,7 @@
 #Project 3 - Physical Therapy App
 
 #User Stories/Scope:
-App Goal: Allow the user and the physician to communicate and interact online
+App Goal: Allow the user and the physician to communicate and interact online. Physician will be able to assign exercises via digital media (pictures/gif, videos, descriptions) to the patients
 
 There are two users : patient and doctor.
 
