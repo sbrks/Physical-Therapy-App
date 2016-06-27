@@ -15,9 +15,12 @@ Technologies Used:
 * 
 
 #Planning: 
-https://trello.com/b/2hUBMDlJ
+[Trello] (https://trello.com/b/2hUBMDlJ)
 
 #Wireframes:
+
+<details><summary>Wireframes</summary>
+![Wireframe PDF](./planning/)
 
 
 
