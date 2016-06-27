@@ -20,7 +20,7 @@ Technologies Used:
 #Planning: 
 [Trello] (https://trello.com/b/2hUBMDlJ)
 
-![ERD/Model](./planning/imeg.jpeg)
+![ERD/Model](./planning/image.jpeg)
 
 #Wireframes:
 
