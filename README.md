@@ -4,3 +4,6 @@ User Stories:
 
 
 Scope: 
+
+Planning: 
+https://trello.com/b/2hUBMDlJ
