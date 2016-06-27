@@ -20,7 +20,7 @@ Technologies Used:
 #Wireframes:
 
 <details><summary>Wireframes</summary>
-![Wireframe PDF](./planning/)
+![Wireframe PDF](./planning/images.pdf)
 
 
 
