@@ -5,7 +5,7 @@ App Goal: Allow the user and the physician to communicate and interact online. P
 
 There are two users : patient and doctor.
 
-Patient: the patient will be able to log in/sign up,  view the doctors, choose a doctor, view the list of exercises prescribed by the doctor, and the exercise index page
+Patient: the patient will be able to log in/sign up,  view the doctors, choose a doctor, view the list of exercises prescribed by the doctor, and view the overall exercise index page
  
 Doctors: the physician will be able to log in/sign up, to view the patient profile, assign/remove the exercises to the patient
 
