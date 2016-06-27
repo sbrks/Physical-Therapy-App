@@ -12,7 +12,10 @@ Doctors: the physician will be able to log in/sign up, to view the patient profi
 We'll have three models: patients,  doctors and exercises. The patient and exercises are connected by a joint table
 
 Technologies Used:
-* 
+* Upload-Care / PaperClip
+* Friendly-ID
+* JS/Jquery for front-end
+* AJAX
 
 #Planning: 
 [Trello] (https://trello.com/b/2hUBMDlJ)
